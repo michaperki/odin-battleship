@@ -1,0 +1,32 @@
+{
+  "name": "odin-battleship",
+  "version": "1.0.0",
+  "description": "Battleship game build with TDD for The Odin Project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaperki/odin-battleship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaperki/odin-battleship/issues"
+  },
+  "homepage": "https://github.com/michaperki/odin-battleship#readme",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "2.8.8",
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
