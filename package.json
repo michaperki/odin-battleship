@@ -4,7 +4,7 @@
   "description": "Battleship game build with TDD for The Odin Project",
   "private": true,
   "scripts": {
-    "test": "jest",
+    "test": "jest --colors",
     "build": "webpack",
     "start": "webpack serve --open"
   },
